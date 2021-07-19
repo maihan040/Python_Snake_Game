@@ -11,7 +11,7 @@ in order to represent the snake
 	-Direction
 """
 #################################################################
-#						Class definition						#
+#			Class definition			#
 #################################################################
 class Snake:
 
