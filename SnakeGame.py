@@ -7,7 +7,7 @@ needed to play the game
 
 """
 #################################################################
-#						Import modules							#
+#			Import modules				#
 #################################################################
 import time 
 import pygame 
@@ -20,7 +20,7 @@ from SoundFiles import SoundFiles
 from WindowDimensions import WindowDimensions
 
 #################################################################
-#						Class definition						#
+#			Class definition			#
 #################################################################
 class SnakeGame:
     
