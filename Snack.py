@@ -9,7 +9,7 @@ represent the snack object
 	-Placed   - boolean variables indicating that the snack has already been placed or not 
 """
 #################################################################
-#						Import modules							#
+#			Import modules				#
 #################################################################
 
 import random 
