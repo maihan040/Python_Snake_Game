@@ -9,7 +9,7 @@ of the game window dimensions
 	-y - x coordinate of the game window 
 """
 #################################################################
-#						Class definition						#
+#			Class definition			#
 #################################################################
 
 class WindowDimensions():
